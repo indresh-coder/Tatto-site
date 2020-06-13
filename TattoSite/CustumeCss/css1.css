@@ -1,0 +1,88 @@
+/* @font-face {
+  src: url(fonts\Piedra\Piedra-Regular.ttf);
+  font-family: piedra;
+}
+
+@font-face {
+    src: url(fonts\Suez_One\Suez_One-Regular.ttf);
+    font-family: suez;
+} */
+
+.pageheader{
+   text-align: center;
+   font-size: 100px;
+   font-family: 'Metal Mania', cursive;
+}
+
+.style-box-kpjiz89{
+  background-color: #DDFBE2;
+  width: 100px;
+  height: 50px;
+  font-size: 15px;
+  text-align: center;
+  padding-top: 12px;
+  font-family: piedra;
+}
+.style-box-yxjyz44{
+  background-color: #DDFBE2;
+  width: 120px;
+  height: 50px;
+  font-size: 15px;
+  text-align: center;
+  padding-top: 12px;
+
+}
+.style-box-qhtrj61{
+  background-color: #DDFBE2;
+  width: 110px;
+  height: 50px;
+  font-size: 15px;
+  text-align: center;
+  padding-top: 12px;
+}
+.style-box-uhtynd87{
+  background-color: #DDFBE2;
+  width: 150px;
+  height: 50px;
+  font-size: 15px;
+  text-align: center;
+  padding-top: 12px;
+}
+.style-box-larg6g87{
+  background-color: #DDFBE2;
+  width: 220px;
+  height: 50px;
+  font-size: 15px;
+  text-align: center;
+  padding-top: 12px;
+}
+.slogynwimnimx01-nknknaksn{
+  position: relative;
+  top: 50px;
+  left:500px;
+  background-color: pink;
+  width: 150px;
+  height: 50px;
+}
+.slogynwimnimx01-jnklok{
+  position: relative;
+  top: 3px;
+  left:10px;
+  background-color: pink;
+  width: 150px;
+  height: 50px;
+}
+.vl {
+  border-left: 2px solid black;
+  height: 100px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+}
+.img-plmko1{
+  position: absolute;
+  right: 60%;
+  width: 120px;
+  height: 110px;
+  top:150px;
+}
